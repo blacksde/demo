@@ -3,10 +3,10 @@
 \alias{my_lm_int}
 \title{Regression results}
 \usage{
-my_lm_int(data)
+my_lm_int(x)
 }
 \arguments{
-\item{data}{}
+\item{x}{}
 }
 \value{
 intercept, slope and max of residual

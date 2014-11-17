@@ -9,5 +9,5 @@ This is the package `demo` for the interview from insight data science.
 * [make_mov](https://github.com/blacksde/demo/blob/master/R/make_mov.R): make movie
 
 ## data set
-* (gDat)[https://github.com/blacksde/demo/blob/master/data/gDat.rda]: gdp data for the countries
-* (abbr)[https://github.com/blacksde/demo/tree/master/data/abbr.rda]: abbr for the name of countries
+* [gDat](https://github.com/blacksde/demo/blob/master/data/gDat.rda): gdp data for the countries
+* [abbr](https://github.com/blacksde/demo/tree/master/data/abbr.rda): abbr for the name of countries

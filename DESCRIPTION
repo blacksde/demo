@@ -1,0 +1,11 @@
+Package: demo
+Title: This is the R package for demo part in insight interview
+Version: 0.1
+Authors@R: "Zichun Ye <yezichun@gmail.com> [aut, cre]"
+Description: This is the R package for demo part in insight interview. The package contain three functions and one dataset. functions: my_lm_int runs linear regression model for lifeExp w.r.t. year; li_spline gets the linear spline of three variables w.r.t. year; make_mov makes movie. dataset: gDat is the data of gdp, population and lifeExp of various countries.
+Depends: 
+    R (>= 3.1.1)
+License: CC0
+LazyData: true
+Suggests: knitr
+VignetteBuilder: knitr
